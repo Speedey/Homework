@@ -1,0 +1,31 @@
+body {
+    background-image: url('Desktop/NSIbackround.jpg');
+    background-color: darkslategray;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+h3, h4{
+    color: wheat;
+}
+
+h2 {
+    color: orangered
+}
+
+p, li{
+    color: snow;
+}
+
+a:link {
+    color:aqua;
+}
+a:visited {
+    color: palevioletred;
+}
+
+h1, h2, h3, h4, h5{
+    text-align: center;
+}
