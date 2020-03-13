@@ -3,6 +3,10 @@ body {
     background-color: darkslategray;
 }
 
+img {
+    text-align:center;
+}
+
 h1 {
     color: whitesmoke;
 }
